@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VenkataJaswanth&label=Profile%20views&color=0e75b6&style=flat" alt="venkatajaswanth" /> </p>
 
-- 🔭 I’m currently learning Routing,networking 
+- 🔭 I’m currently learning Cybersecutity,Cloud 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering from [MVGR College of Engineering](https://www.mvgrce.com/)
 - 💼 &nbsp; Android developer and front-end web developer.
@@ -34,7 +34,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=red)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 
 ![Rasa](https://img.shields.io/badge/-Rasa-05122A?style=flat&logo=chatbot)&nbsp;
